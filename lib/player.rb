@@ -6,4 +6,8 @@ class Player
     @token = token
   end
 
+  class Human < Player
+
+  end
+
 end
